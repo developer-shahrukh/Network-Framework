@@ -1,6 +1,6 @@
-package com.thinking.machines.nframework.client;
-import com.thinking.machines.nframework.common.exceptions.*;
-import com.thinking.machines.nframework.common.*;
+package com.shahrukh.mansuri.nframework.client;
+import com.shahrukh.mansuri.nframework.common.exceptions.*;
+import com.shahrukh.mansuri.nframework.common.*;
 import java.nio.charset.*;
 import java.io.*;
 import java.net.*;

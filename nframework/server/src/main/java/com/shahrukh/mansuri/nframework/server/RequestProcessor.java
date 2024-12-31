@@ -1,7 +1,7 @@
-package com.thinking.machines.nframework.server;
+package com.shahrukh.mansuri.nframework.server;
 import java.io.*;
 import java.net.*;
-import com.thinking.machines.nframework.common.*;
+import com.shahrukh.mansuri.nframework.common.*;
 import java.nio.charset.*;
 import java.lang.reflect.*;
 class RequestProcessor extends Thread

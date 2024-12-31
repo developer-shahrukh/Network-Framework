@@ -1,4 +1,4 @@
-package com.thinking.machines.nframework.common;
+package com.shahrukh.mansuri.nframework.common;
 public class Response implements java.io.Serializable
 {
 private boolean success;
